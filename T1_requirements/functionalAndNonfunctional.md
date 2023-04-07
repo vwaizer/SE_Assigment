@@ -1,4 +1,4 @@
-#Functional requirements
+# Functional requirements
 1. For the ==back officers==: 
 -	They access to all staff’s information, vehicles’ details and MCPs’ properties  
 -	They assign vehicle to janitor and collector
@@ -12,7 +12,7 @@
 -	They have a detailed view of their tasks daily and weekly.
 -	They check in/out
 -	They communicate with others
-#Non-functional requirements
+# Non-functional requirements
 1. For the ==back officers==:
 -	The information of MCPs must be updated every 15 mins with the availability of at least 95% of their operating time
 -	The route which is created is optimized in terms of fuel consumption and travel distance.
