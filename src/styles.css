@@ -17,3 +17,23 @@ nav {
 img {
   margin: 20px;
 }
+    .clickable {
+  background-color: lightgreen;
+  cursor: pointer;
+}
+.color1 {
+  background-color: darkblue;
+color: white;
+}
+.color2 {
+  background-color: red;
+  color: black;
+}
+.color3 {
+  background-color: lightgreen;
+  color: black;
+}
+.table-lightgreen{
+  background-color: lightgreen;
+}
+
