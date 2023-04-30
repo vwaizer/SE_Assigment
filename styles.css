@@ -1,0 +1,39 @@
+html,
+body {
+  margin: 10px;
+}
+
+nav {
+  font-weight: bold;
+}
+
+.nav-item {
+  background-color: grey;
+  margin: 10px;
+  border-width: 10px;
+  border-radius: 30px;
+}
+
+img {
+  margin: 20px;
+}
+    .clickable {
+  background-color: lightgreen;
+  cursor: pointer;
+}
+.color1 {
+  background-color: darkblue;
+color: white;
+}
+.color2 {
+  background-color: red;
+  color: black;
+}
+.color3 {
+  background-color: lightgreen;
+  color: black;
+}
+.table-lightgreen{
+  background-color: lightgreen;
+}
+
